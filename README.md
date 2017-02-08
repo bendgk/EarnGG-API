@@ -24,7 +24,7 @@ balance = get_balance()
 print roll(10, 2)
 >>> "true"
 print roll(10, 2)
->>> "false
+>>> "false"
 ```
 
 ### License
