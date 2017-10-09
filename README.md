@@ -21,9 +21,9 @@ balance = get_balance()
 - returns if you won the gamble as a boolean
 
 ```
-print roll(10, 2)
+roll(10, 2)
 >>> True
-print roll(10, 2)
+roll(10, 2)
 >>> False
 ```
 
